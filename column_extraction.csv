@@ -1,0 +1,9 @@
+"123 Anywhere St., Any Cit",UNIT PRIC,QTY,TOTA
+DESCRIPTION,100,1,$100
+brand consultation,100,{,$100
+logo design,100,1,$100
+website design,100,1,$100
+social media templates,100,4,$100
+brand manual,,Ta,$500
+SUBTOTAL,,TOTA,10%
+,,,$550
